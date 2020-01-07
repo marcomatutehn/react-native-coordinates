@@ -17,6 +17,7 @@ const CoordinatesListLayout = (props) => {
 const styles = StyleSheet.create({
     container: {
         paddingVertical: 10,
+        paddingHorizontal: 10,
         flex: 1,
     },
     title:{
