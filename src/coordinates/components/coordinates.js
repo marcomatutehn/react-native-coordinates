@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
         paddingVertical: 4,
         paddingHorizontal: 6,
         color: 'white',
-        fontSize: 11,
+        fontSize: 16,
         borderRadius: 5,
         overflow: 'hidden',
         alignSelf: 'flex-start'
